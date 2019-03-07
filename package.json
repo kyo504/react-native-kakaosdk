@@ -1,0 +1,25 @@
+{
+  "name": "react-native-kakaosdk",
+  "version": "0.0.1",
+  "description": "A React Native wrapper around the Kakao SDKs for Android and iOS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyo504/react-native-kakaosdk.git"
+  },
+  "keywords": [
+    "kakao",
+    "ios",
+    "android",
+    "sdk"
+  ],
+  "author": "Daniel Jung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyo504/react-native-kakaosdk/issues"
+  },
+  "homepage": "https://github.com/kyo504/react-native-kakaosdk#readme"
+}
