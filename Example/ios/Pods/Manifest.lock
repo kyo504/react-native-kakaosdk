@@ -1,0 +1,44 @@
+PODS:
+  - KakaoOpenSDK (1.11.2):
+    - KakaoOpenSDK/KakaoCommon (= 1.11.2)
+    - KakaoOpenSDK/KakaoLink (= 1.11.2)
+    - KakaoOpenSDK/KakaoMessageTemplate (= 1.11.2)
+    - KakaoOpenSDK/KakaoNavi (= 1.11.2)
+    - KakaoOpenSDK/KakaoOpenSDK (= 1.11.2)
+    - KakaoOpenSDK/KakaoS2 (= 1.11.2)
+  - KakaoOpenSDK/KakaoCommon (1.11.2)
+  - KakaoOpenSDK/KakaoLink (1.11.2):
+    - KakaoOpenSDK/KakaoCommon
+  - KakaoOpenSDK/KakaoMessageTemplate (1.11.2)
+  - KakaoOpenSDK/KakaoNavi (1.11.2):
+    - KakaoOpenSDK/KakaoCommon
+  - KakaoOpenSDK/KakaoOpenSDK (1.11.2)
+  - KakaoOpenSDK/KakaoS2 (1.11.2):
+    - KakaoOpenSDK/KakaoCommon
+  - React (0.11.0):
+    - React/Core (= 0.11.0)
+  - react-native-kakaosdk (0.0.1):
+    - KakaoOpenSDK (~> 1.11.2)
+    - React
+  - React/Core (0.11.0)
+
+DEPENDENCIES:
+  - react-native-kakaosdk (from `/Users/daniel/workspace/react-native-kakaosdk`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - KakaoOpenSDK
+    - React
+
+EXTERNAL SOURCES:
+  react-native-kakaosdk:
+    :path: "/Users/daniel/workspace/react-native-kakaosdk"
+
+SPEC CHECKSUMS:
+  KakaoOpenSDK: cb3237cef2f458f6b4b895475fac72fe7a76f34d
+  React: ab1a2e21deb34965c38328d5ec40cc7d12c6050a
+  react-native-kakaosdk: 050f89f5fa93e8feacd7cd055bc58136225175f5
+
+PODFILE CHECKSUM: 8a65ebecb98158ef1a66ed8f13aa76ca35ea8cb6
+
+COCOAPODS: 1.6.1
